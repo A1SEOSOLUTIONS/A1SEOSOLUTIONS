@@ -1,6 +1,6 @@
-- 👋 Hi, I’m 
-- 👀 I’m interested in automation, marketing, javascript, SAAS software
-- 🌱 I’m currently learning scripting languages
+- 👋 Hi, I’m SEO Solutions Texas,
+- 👀 I’m interested in AI Search Optimization, Entity SEO, Knowledge Graph Optimization, Conversion Rate Optimization, AI Workflow Automation
+- 🌱 I’m currently learning scripting languages for automated workflows for Texas businesses
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hello@seosolutionstexas.com...
 - 🌍 https://seosolutionstexas.com
