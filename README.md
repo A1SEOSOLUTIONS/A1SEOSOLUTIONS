@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @A1SEOSOLUTIONS
+- 👋 Hi, I’m 
 - 👀 I’m interested in automation, marketing, javascript, SAAS software
 - 🌱 I’m currently learning scripting languages
 - 💞️ I’m looking to collaborate on ...
